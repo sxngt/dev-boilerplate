@@ -1,0 +1,3 @@
+[submodule "nestjs-boilerplate"]
+	path = nestjs-boilerplate
+	url = https://github.com/sxngt/nestjs-boilerplate.git
